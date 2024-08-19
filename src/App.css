@@ -1,0 +1,35 @@
+.container1{
+  background-image: linear-gradient(rgb(195, 250, 31),rgb(248, 167, 97));
+  border: 3px solid red;
+  margin: 10px;
+  padding: 10px;
+}
+.container3{
+  background-image: linear-gradient(rgb(195, 250, 31),rgb(248, 167, 97));
+  border: 3px solid red;
+  padding: 10px;
+}
+.container2{
+  background-image: linear-gradient(rgb(195, 250, 31),rgb(248, 167, 97));
+  border: 3px solid red;
+  padding: 10px;
+}
+h2{
+  color: white;
+}
+.container{
+  margin: 10px;
+  
+}
+h1{
+  color:darkgreen;
+}
+.Reactstate{
+  color: blue;
+}
+.text{
+  background-image: linear-gradient(orange,red);
+}
+.t2 h2{
+  color: blue;
+}
